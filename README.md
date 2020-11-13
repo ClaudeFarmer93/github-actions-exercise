@@ -20,5 +20,5 @@ docker build . -t my-app
 docker run -p 8080:8080 my-app
 ```
 ![alt text](https://free-images.com/lg/83fa/spiral_key_to_universes.jpg)
-![GitHub](IMG__3534.jpg)
+![GitHub](IMG_3534.jpg)
 
