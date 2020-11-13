@@ -19,5 +19,5 @@ docker build . -t my-app
 ```bash
 docker run -p 8080:8080 my-app
 ```
-![GitHub Logo] (https://free-images.com/lg/83fa/spiral_key_to_universes.jpg)
-Format ![Alt Text] (https://free-images.com/lg/83fa/spiral_key_to_universes.jpg)
+![GitHub Logo](https://free-images.com/lg/83fa/spiral_key_to_universes.jpg)
+Format: ![Alt Text](https://free-images.com/lg/83fa/spiral_key_to_universes.jpg)
